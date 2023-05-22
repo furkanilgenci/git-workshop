@@ -10,5 +10,5 @@ function main() {
     console.log('3 - 1 = 2', sumSubtract)
 }
 
-// call the main
+// call main
 main()
