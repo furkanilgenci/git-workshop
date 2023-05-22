@@ -1,7 +1,6 @@
 const sum = require('./utils/sum.js')
 const subtract = require('./utils/subtract.js')
 
-
 // define the main
 function main() {
     const sumResult = sum(1, 2)
